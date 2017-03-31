@@ -4,7 +4,7 @@ Financial Framework
 
 ## Project Description
 
-A banking application based on [Finco framework](https://github.com/bishalpaudel/FinCo). All the dependencies are supplied to the framework through `Bank.java`, and let IOC do the rest. 
+A banking application based on [Finco framework](https://github.com/bishalpaudel/FinCo). All the dependencies are supplied to the framework through `Bank.java`, and let IOC do the rest. The class diagram and sequence diagrams provides more details on the struture and flow of the application, which is inside UML folder.
 
 ## Getting Started
 
