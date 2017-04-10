@@ -23,8 +23,8 @@ To run this project, simply clone the repository and run `Bank/Bank.java`.
 ## Authors
 
 * **Bishal Paudel** - [BishalPaudel](https://github.com/bishalpaudel)
-* **Akash KC** - [Akash KC](https://github.com/bishalpaudel)
-* **Devi Bahadur Khadka** - [Devi Bahadur Khadka](https://github.com/bishalpaudel)
+* **Akash KC**
+* **Devi Bahadur Khadka** - [Devi Bahadur Khadka](https://github.com/dbkhadka)
 
 See also the list of [contributors](https://github.com/bishalpaudel/BankApp/contributors) who participated in this project.
 
